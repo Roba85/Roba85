@@ -23,7 +23,7 @@
 
 ### 🔝 Notable Contributions
 [HustleHub:](https://github.com/Welly0007/hustleHub) Developed dynamic user interactions using AJAX, with backend logic in Django and responsive frontend components using HTML and CSS.<br/>
-[Car Wash System:](https://github.com/Roba85/CarWashSystem) Developed a car wash simulation system that utilizes concurrency and semaphores to schedule cars at a car wash station.
+[Car Wash System:](https://github.com/Roba85/CarWashSystem) Developed a car wash simulation system that utilizes concurrency and semaphores to schedule cars at a car wash station.<br/>
 [Slice Of Focus:](https://github.com/Roba85/CS50xFinalProject) Developed data representation using Chart.js and worked database management<br/>
 [Pixel Craft:](https://github.com/haidy73/Pixel-Craft) Developed some filters and GUI using C++<br/>
 
